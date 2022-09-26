@@ -69,7 +69,9 @@ Aqui executamos linha por linha, para adicionar os locais de push:
 
     git remote set-url --add --push all url.gitbucket(exemplo: https://rafaelnct@bitbucket.org/rafaelnct/00-boilerplate-vite-react-ts-eslint-prettier-editorconfig.git)
 
-    git remote set-url --add --push all url.gitlab(exemplo: https://gitlab.com/rafaelnct/00-template-vite-react-ts-eslint-prettier-editorconfig-cssglobal-cssmodule.git || https://rafaelnct@gitlab.com/rafaelnct/00-template-vite-react-ts-eslint-prettier-editorconfig-cssglobal-cssmodule.git)
+    git remote set-url --add --push all url.gitlab(exemplo: https://rafaelnct@gitlab.com/rafaelnct/00-template-vite-react-ts-eslint-prettier-editorconfig-cssglobal-cssmodule.git)
+
+    SE ATENTAR AOS LINKS! Que são bem diferentes
 
 <br />
 Para subirmos:
@@ -80,3 +82,20 @@ Para subirmos:
 Se der errado apagamos a "all" desta forma:
 
     git remote remove all
+
+Observação:
+
+    Talvez o gitBucket e o gitlab peçam para criar uma senha, para isso vamos em:
+
+        GitBucket:
+            1. Personal Settings (Clicando na foto)
+            2. Senhas do Aplicativo
+            3. Criar senha do aplicativo
+            4. A senha será gerada
+
+        GitLab:
+            1. User Settings (Clicando na foto)
+            2. Acess Tokens
+            3. Dar nome a ele e a senha será gerada
+
+        Em ambos, se tratando de um repositório, colocar no NOME, o NOME DO REPOSITÓRIO!
