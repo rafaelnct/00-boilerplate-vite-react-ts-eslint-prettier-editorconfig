@@ -8,7 +8,7 @@
     align-items: flex-start;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     html {
         font-size: 87.5%;
     }
