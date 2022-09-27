@@ -1,0 +1,22 @@
+<svg width="204" height="223" viewBox="0 0 204 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame" clip-path="url(#clip0_0_3)">
+<g id="Z_RED_BLE">
+<g id="RED">
+<path id="RED_PEQU" d="M162.34 161.31V140.6H143.39L125.94 161.31" fill="#FF337A"/>
+<path id="RED_DIAG" d="M56.5 82.08L0 149.14V181.25H20.71V169.86L94.66 82.08H56.5Z" fill="#FF337A"/>
+<path id="RED_RETO" d="M158.46 20.71V0H2.33V40.65H23.04V20.71H158.46Z" fill="#FF337A"/>
+</g>
+<g id="BLE">
+<path id="BLE_RETO" d="M183.06 182.02V201.96H41.43V222.67H203.78V182.02H183.07H183.06Z" fill="#1E84EA"/>
+<path id="BLE_DIAG" d="M87.78 161.31H125.95L199.9 73.54V41.43H179.19V52.82L87.79 161.31H87.78Z" fill="#1E84EA"/>
+<path id="BLE_PEQU" d="M43.76 61.36V82.07H94.66L112.11 61.36H43.76Z" fill="#1E84EA"/>
+</g>
+</g>
+<path id="Z_BRANCO" d="M20.71 201.96V169.85L112.12 61.36H23.04V20.71H179.18V52.81L87.78 161.3H183.07V201.95H20.71V201.96Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_0_3">
+<rect width="203.78" height="222.67" fill="white"/>
+</clipPath>
+</defs>
+</svg>
